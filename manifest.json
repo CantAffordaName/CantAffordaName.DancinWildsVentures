@@ -1,9 +1,10 @@
 {
   "filename": "NewHorizonsConfig.dll",
-  "author": "[your name]",
-  "name": "[your readable mod name]",
-  "uniqueName": "[your name].[your unique mod ID]",
-  "version": "0.0.0",
-  "owmlVersion": "2.7.2",
-  "dependencies": [ "xen.NewHorizons" ]
+  "author": "Can't Afford a Name",
+  "name": "Dancin' Wilds Ventures",
+  "uniqueName": "CantAffordaName.DancinWildsVentures",
+  "version": "0.1.0",
+  "owmlVersion": "2.7.3",
+  "conflicts": [ "Raicuparta.QuantumSpaceBuddies", "Vesper.AutoResume", "PacificEngine.OW_Randomizer" ],
+  "pathsToPreserve": [ "planets", "systems", "translations" ]
 }

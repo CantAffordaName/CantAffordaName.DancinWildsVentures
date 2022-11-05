@@ -1,0 +1,204 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Exit Only Dimension",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Signal": {
+		"signals": [
+			{
+				"audio": "planets/assetbundle/RaveCave.mp3",
+				"detectionRadius": 30.0,
+				"frequency": "Radio",
+				"name": "Dancin' Wilds Ventures",
+				"onlyAudibleToScope": true,
+				"position": {
+					"x": 129.786316,
+					"y": 149.708984,
+					"z": -129.38681
+				},
+				"sourceRadius": 10.0,
+				"identificationRadius": 10.0
+			}
+		]
+	},
+	"Orbit": {},
+	"Volumes": {
+		"audioVolumes": [
+			{
+				"position": {
+					"x": 129.786438,
+					"y": 149.708984,
+					"z": -129.3869
+				},
+				"radius": 50,
+				"audio": "planets/assetbundle/RaveCave.mp3",
+				"track": "music",
+				"loop": true,
+				"volume": 0.5
+			}
+		]
+	},
+	"Props": {
+		"details": [
+			{
+				"assetBundle": "planets/assetbundle/dancing",
+				"path": "Assets/Travellers/NewDiscoFloor.prefab",
+				"position": {
+					"x": 129.786438,
+					"y": 149.708984,
+					"z": -129.3869
+				},
+				"rotation": {
+					"x": 20.3221054,
+					"y": 282.907,
+					"z": 183.5455
+				},
+				"keepLoaded": true
+			},
+			{
+				"assetBundle": "planets/assetbundle/dancing",
+				"path": "Assets/Travellers/Gabbro/GabbroDancing.prefab",
+				"position": {
+					"x": 125.279335,
+					"y": 147.898438,
+					"z": -122.977394
+				},
+				"rotation": {
+					"x": 348.2834,
+					"y": 149.3362,
+					"z": 162.9164
+				}
+			},
+			{
+				"assetBundle": "planets/assetbundle/dancing",
+				"path": "Assets/Travellers/Feldspar/FeldsparDancing.prefab",
+				"position": {
+					"x": 123.237465,
+					"y": 147.296875,
+					"z": -132.098938
+				},
+				"rotation": {
+					"x": 341.4254,
+					"y": 66.07821,
+					"z": 189.1071
+				}
+			},
+			{
+				"assetBundle": "planets/assetbundle/dancing",
+				"path": "Assets/Travellers/Esker/EskerDancing.prefab",
+				"position": {
+					"x": 131.8285,
+					"y": 150.3297,
+					"z": -121.099
+				},
+				"rotation": {
+					"x": 8.261697,
+					"y": 204.2799,
+					"z": 161.5512
+				}
+			},
+			{
+				"assetBundle": "planets/assetbundle/dancing",
+				"path": "Assets/Travellers/Chert/ChertDancing.prefab",
+				"position": {
+					"x": 136.796982,
+					"y": 152.429688,
+					"z": -134.120758
+				},
+				"rotation": {
+					"x": 15.307106,
+					"y": 316.1103,
+					"z": 193.9789
+				}
+			},
+			{
+				"assetBundle": "planets/assetbundle/dancing",
+				"path": "Assets/Travellers/Riebeck/RiebeckDancing.prefab",
+				"position": {
+					"x": 138.0589,
+					"y": 152.1156,
+					"z": -123.8916
+				},
+				"rotation": {
+					"x": 16.4915028,
+					"y": 234.6936,
+					"z": 167.4523
+				}
+			},
+			{
+				"assetBundle": "planets/assetbundle/dancing",
+				"path": "Assets/Travellers/Anglerfish/AnglerDancing.prefab",
+				"position": {
+					"x": 104.771477,
+					"y": 138.357422,
+					"z": -141.910583
+				},
+				"rotation": {
+					"x": 341.4254,
+					"y": 66.07821,
+					"z": 189.1071
+				}
+			},
+			{
+				"assetBundle": "planets/assetbundle/dancing",
+				"path": "Assets/Travellers/Anglerfish/AnglerDancing.prefab",
+				"position": {
+					"x": 116.133728,
+					"y": 142.259766,
+					"z": -104.911232
+				},
+				"rotation": {
+					"x": 349.561,
+					"y": 153.4681,
+					"z": 162.1221
+				}
+			},
+			{
+				"assetBundle": "planets/assetbundle/dancing",
+				"path": "Assets/Travellers/DiscoFish/FullDiscoAngler.prefab",
+				"position": {
+					"x": 134.76265,
+					"y": 135.085938,
+					"z": -129.386871
+				},
+				"rotation": {
+					"x": 341.4254,
+					"y": 66.07821,
+					"z": 189.1071
+				}
+			},
+			{
+				"path": "Props_HEA_Radio",
+				"position": {
+					"x": 126.059158,
+					"y": 150.210938,
+					"z": -141.953156
+				},
+				"rotation": {
+					"x": 356.4846,
+					"y": 12.19,
+					"z": 200.3271
+				},
+				"scale": 5.0
+			},
+			{
+				"path": "Tree_TH_Stump",
+				"position": {
+					"x": 138.167953,
+					"y": 152.751953,
+					"z": -123.632713
+				},
+				"rotation": {
+					"x": 19.3320065,
+					"y": 251.6272,
+					"z": 172.6965
+				},
+				"scale": 0.25
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShipLog": {},
+	"ShockEffect": {}
+}

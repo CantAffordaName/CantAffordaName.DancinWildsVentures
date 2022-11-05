@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "DarkBramble",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Signal": {
+		"signals": [
+			{
+				"audio": "planets/assetbundle/RaveCave.mp3",
+				"detectionRadius": 0.0,
+				"frequency": "Radio",
+				"name": "Dancin' Wilds Ventures",
+				"onlyAudibleToScope": true,
+				"position": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"sourceRadius": 8.0
+			}
+		]
+	},
+	"Orbit": {},
+	"Props": {},
+	"ReferenceFrame": {},
+	"ShipLog": {}
+}

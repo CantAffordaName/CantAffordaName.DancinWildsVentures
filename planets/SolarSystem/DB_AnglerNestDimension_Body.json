@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Angler Nest Dimension",
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"Signal": {
+		"signals": [
+			{
+				"audio": "planets/assetbundle/RaveCave.mp3",
+				"detectionRadius": 0.0,
+				"frequency": "Radio",
+				"name": "Dancin' Wilds Ventures",
+				"onlyAudibleToScope": true,
+				"position": {
+					"x": 353.3555,
+					"y": 163.3633,
+					"z": -324.0298
+				},
+				"sourceRadius": 15.0
+			}
+		]
+	},
+	"Orbit": {},
+	"Props": {},
+	"ReferenceFrame": {},
+	"ShipLog": {}
+}

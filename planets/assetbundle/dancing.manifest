@@ -1,0 +1,123 @@
+ManifestFileVersion: 0
+CRC: 2424103259
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b5d71c5a62044e8a4986ecf58cf0a46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14d8102aa42fef875dd56d2c0be2a84f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44e6c85460fc91746b86ccb3c4135daf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c2d328d259791744bb8539650a9c619, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61b00a8e76a237e429174e8bc253901f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Travellers/Feldspar/Traveller_HEA_Feldspar_d.png
+- Assets/Travellers/Anglerfish/LOD_Beast_Anglerfish_n.png
+- Assets/Travellers/Chert/ChertDancing.prefab
+- Assets/Travellers/Anglerfish/LOD_Beast_Anglerfish_s.png
+- Assets/Travellers/Chert/ChertImport.fbx
+- Assets/Travellers/Riebeck/Traveller_HEA_Riebeck_d.png
+- Assets/Travellers/Gabbro/Traveller_HEA_Gabbro_d.png
+- Assets/Travellers/Anglerfish/LOD_Beast_Anglerfish_d.png
+- Assets/Travellers/Esker/Mat_EskerClothes.mat
+- Assets/Travellers/Gabbro/AnimGabbro.anim
+- Assets/Travellers/Esker/EskerImport.fbx
+- Assets/Travellers/Esker/AnimController_Esker.controller
+- Assets/Travellers/Mat_DiscoFloor.mat
+- Assets/Travellers/Anglerfish/DancingAnglerController.controller
+- Assets/Travellers/Feldspar/LOD_Traveller_HEA_Feldspar_ao.png
+- Assets/Travellers/DiscoFloorNrm.png
+- Assets/Travellers/Esker/LOD_Villager_HEA_Esker_Skin_n.png
+- Assets/Travellers/Riebeck/RiebeckDancing.prefab
+- Assets/Travellers/Gabbro/LOD_Traveller_EYE_Gabbro_ao.png
+- Assets/Travellers/RaveCave.mp3
+- Assets/Travellers/DiscoFish/FullDiscoAngler.prefab
+- Assets/Travellers/Esker/LOD_Villager_HEA_Esker_Clothes_ao.png
+- Assets/Travellers/Chert/ChertAnim.anim
+- Assets/Travellers/Esker/LOD_Villager_HEA_Esker_Clothes_s.png
+- Assets/Travellers/Esker/EskerDancing.prefab
+- Assets/Travellers/Feldspar/Mat_Feldspar.mat
+- Assets/Travellers/Chert/Traveller_HEA_Chert_d.png
+- Assets/Travellers/Chert/LOD_Traveller_HEA_Chert_s.png
+- Assets/Travellers/Riebeck/Traveller_TS_Riebeck_s.png
+- Assets/Travellers/Feldspar/FeldsparDancing.prefab
+- Assets/Travellers/Feldspar/FeldsparCustom.fbx
+- Assets/Travellers/DiscoFloor.prefab
+- Assets/Travellers/Esker/Villager_HEA_Esker_Skin_d.png
+- Assets/Travellers/Anglerfish/AnglerDancing.prefab
+- Assets/Travellers/Riebeck/Traveller_TS_Riebeck_ao.png
+- Assets/Travellers/Gabbro/Mat_Gabbro.mat
+- Assets/Travellers/Anglerfish/LOD_Beast_Anglerfish_AO.png
+- Assets/Travellers/Chert/LOD_Traveller_HEA_Chert_ao.png
+- Assets/Travellers/Gabbro/GabbroDancing.prefab
+- Assets/Travellers/Chert/LOD_Traveller_HEA_Chert_n.png
+- Assets/Travellers/Esker/Villager_HEA_Esker_Clothes_d.png
+- Assets/Travellers/NewDiscoFloor.prefab
+- Assets/Travellers/Anglerfish/Mat_Anglerfish.mat
+- Assets/Travellers/Riebeck/Traveller_TS_Riebeck_n.png
+- Assets/Travellers/DiscoFish/DiscoAngler.fbx
+- Assets/Travellers/DiscoFish/Mat_Disco.mat
+- Assets/Travellers/DiscoFish/DiscoSpin.anim
+- Assets/Travellers/Gabbro/LOD_Traveller_HEA_Gabbro_n.png
+- Assets/Travellers/Esker/Mat_EskerSkin.mat
+- Assets/Travellers/Chert/Mat_Chert.mat
+- Assets/Travellers/Feldspar/LOD_Traveller_HEA_Feldspar_n.png
+- Assets/Travellers/Feldspar/LOD_Traveller_HEA_Feldspar_s.png
+- Assets/Travellers/DiscoFish/DiscoFishController.controller
+- Assets/Travellers/DiscoFloor.png
+- Assets/Travellers/Esker/LOD_Villager_HEA_Esker_Clothes_n.png
+- Assets/Travellers/Riebeck/AnimControllerRiebeck.controller
+- Assets/Travellers/Feldspar/AnimController_Feldspar.controller
+- Assets/Travellers/DiscoFloorModel.fbx
+- Assets/Travellers/Feldspar/AnimFeldspar.anim
+- Assets/Travellers/Gabbro/GabbroExport.fbx
+- Assets/Travellers/Anglerfish/FishDanceAnim.anim
+- Assets/Travellers/Riebeck/ReExportedRiebeck.fbx
+- Assets/Travellers/Gabbro/LOD_Traveller_HEA_Gabbro_s.png
+- Assets/Travellers/Chert/AnimControllerChert.controller
+- Assets/Travellers/Anglerfish/DancingFish.fbx
+- Assets/Travellers/Riebeck/RiebeckAnim.anim
+- Assets/Travellers/Esker/EskerAnimation.anim
+- Assets/Travellers/Riebeck/Mat_Riebeck.mat
+- Assets/Travellers/Gabbro/AnimController_Gabbro.controller
+Dependencies: []
